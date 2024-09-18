@@ -23,7 +23,7 @@ We aim to build software that not only solves problems but also enhances the use
 
 ## Get in Touch
 
-Want to collaborate or have any questions? Feel free to reach out to us via [thebrainstormers1707@gmail.com].
+Want to collaborate or have any questions? Feel free to reach out to us via [ thebrainstormers1707@gmail.com ].
 
 
 ---
